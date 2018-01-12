@@ -1,0 +1,5 @@
+# Bot client ID
+client_id: 1234567890
+
+# Bot token
+token: 'abc123'
