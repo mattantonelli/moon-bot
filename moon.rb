@@ -19,7 +19,7 @@ class Moon
         return phase[1]
       else
         @phases.delete_at(0)
-        fetch_phases if @phases.empty
+        fetch_phases if @phases.empty?
       end
     end
   end
